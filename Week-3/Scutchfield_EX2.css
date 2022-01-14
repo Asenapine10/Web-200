@@ -31,17 +31,17 @@ address {
     text-align: center;
     font-family: "Quattrocento", Georgia, 'Times New Roman', Serif;
 }
-a:link {
+address a:link {
     font-size: 1.25em;
     font-weight: bold;
     color: #4F3674;
     text-decoration: none;
 }
-a:visited {
+address a:visited {
     color: #D6A800;
     text-decoration: none;
 }
-a:hover {
+address a:hover {
     text-decoration: underline;
     background-color: #D6A800;
 }
