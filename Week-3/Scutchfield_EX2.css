@@ -31,18 +31,19 @@ address {
     text-align: center;
     font-family: "Quattrocento", Georgia, 'Times New Roman', Serif;
 }
-a {
+a:link {
     font-size: 1.25em;
     font-weight: bold;
     color: #4F3674;
     text-decoration: none;
 }
+a:visited {
+    color: #D6A800;
+    text-decoration: none;
+}
 a:hover {
     text-decoration: underline;
     background-color: #D6A800;
-}
-a:visited {
-    color: #D6A800;
 }
 span.sentence {
     font-style: italic;
